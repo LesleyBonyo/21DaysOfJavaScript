@@ -11,4 +11,4 @@ Write a loop that makes seven calls to console.log to output the following trian
 */
 
 for (hash = '#'; hash.length<8 ; hash += '#')
-  console.log(hash + '\n');
+  console.log(hash + '\n');s
